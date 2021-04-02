@@ -8,5 +8,3 @@ Topics covered:
 - Rejection Sampling
 - Importance Sampling
 - Gradient Descent
-
-Please notice: this is a running project, the list of topics is by no means exhaustive and is constantly updated.
